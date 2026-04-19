@@ -84,7 +84,7 @@ git push
 
 ## Installed Skills
 
-`/recap` `/rrr` `/forward` `/standup` `/learn` `/dig` `/trace` `/talk-to` `/research` `/plan` `/roadmap` `/stack-decision`
+`/recap` `/rrr` `/forward` `/standup` `/learn` `/dig` `/trace` `/talk-to` `/xray` `/resonance` `/bud` `/team-agents` `/research` `/plan` `/roadmap` `/stack-decision`
 
 ## Brain Structure
 
